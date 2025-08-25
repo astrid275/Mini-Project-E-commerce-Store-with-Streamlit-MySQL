@@ -11,3 +11,5 @@ The aim is to gain hands-on experience with:
 * Displaying and interacting with data in a user-friendly interface.
 * This project can be done in pairs or individually.
 
+* Working in Teams: Nur and Astrid
+
