@@ -1,0 +1,21 @@
+product_id,name,category,price,stock
+1,Wireless Mouse,Electronics,25.99,120
+2,Laptop Stand,Accessories,45.5,80
+3,Mechanical Keyboard,Electronics,75.0,60
+4,Running Shoes,Sportswear,89.99,150
+5,Water Bottle,Sportswear,15.0,200
+6,Bluetooth Speaker,Electronics,59.99,70
+7,Desk Lamp,Home & Living,22.5,100
+8,Yoga Mat,Sportswear,30.0,90
+9,Coffee Maker,Home & Living,99.99,40
+10,Smartphone Case,Accessories,12.99,300
+11,Tablet,Electronics,199.99,50
+12,Gaming Chair,Furniture,149.99,25
+13,Electric Kettle,Home & Living,35.99,70
+14,Backpack,Accessories,55.0,120
+15,Fitness Tracker,Electronics,129.99,80
+16,Sunglasses,Accessories,60.0,200
+17,Smartwatch,Electronics,249.99,45
+18,Office Desk,Furniture,299.99,15
+19,Vacuum Cleaner,Home & Living,159.99,30
+20,Tennis Racket,Sportswear,110.0,50

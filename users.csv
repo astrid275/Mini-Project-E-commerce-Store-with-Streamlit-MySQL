@@ -1,0 +1,21 @@
+user_id,first_name,last_name,email,city
+1,Alice,Johnson,alice.j@example.com,New York
+2,Bob,Smith,bob.smith@example.com,Los Angeles
+3,Carol,White,carol.w@example.com,Chicago
+4,David,Brown,david.b@example.com,Houston
+5,Emily,Davis,emily.d@example.com,Miami
+6,Frank,Wilson,frank.w@example.com,Dallas
+7,Grace,Miller,grace.m@example.com,San Francisco
+8,Henry,Lee,henry.l@example.com,Seattle
+9,Irene,Martin,irene.m@example.com,Boston
+10,Jack,Taylor,jack.t@example.com,Denver
+11,Karen,Anderson,karen.a@example.com,Phoenix
+12,Luke,Thomas,luke.t@example.com,Austin
+13,Mia,Jackson,mia.j@example.com,Philadelphia
+14,Noah,Harris,noah.h@example.com,Portland
+15,Olivia,Clark,olivia.c@example.com,Atlanta
+16,Paul,Lewis,paul.l@example.com,Orlando
+17,Quinn,Walker,quinn.w@example.com,San Diego
+18,Ryan,Hall,ryan.h@example.com,Detroit
+19,Sophia,Allen,sophia.a@example.com,Charlotte
+20,Tom,Young,tom.y@example.com,Las Vegas
