@@ -13,3 +13,5 @@ The aim is to gain hands-on experience with:
 
 * Working in Teams: Nur and Astrid
 
+<img width="1614" height="1318" alt="image" src="https://github.com/user-attachments/assets/7821ff0b-f82a-42e1-9d76-20f29d549c4b" />
+
